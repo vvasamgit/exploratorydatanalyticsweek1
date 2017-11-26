@@ -1,4 +1,4 @@
-# Exploratory Dat Analytics for household energy usage
+# Exploratory Data Analytics for household energy usage
 
 The plots shows household energy usage over a 2-day period in February, 2007.
 
